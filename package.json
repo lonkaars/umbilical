@@ -1,0 +1,10 @@
+{
+	"name": "umbilical",
+	"version": "1.0.0",
+	"description": "connect four discord bot",
+	"main": "index.js",
+	"repository": "https://github.com/lonkaars/umbilical",
+	"author": "lonkaars <l.leblansch@gmail.com>",
+	"license": "MIT",
+	"private": false
+}
